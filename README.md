@@ -13,7 +13,7 @@ This repository contains the latest version of my resume, which highlights:
 
 I’m passionate about turning data into meaningful insights and building impactful tech-driven solutions.
 
-Check out my resume [here](./Merlyn_Victor_Resume.pdf) or download it directly to know more about my skills, projects, and academic background.
+Check out my resume [here](https://github.com/merls0515/Merlyn-Resume/blob/165783806e3129ca304c5f4f57d5742633cf6d59/Merlyn%20Victor%20Resume.pdf) or download it directly to know more about my skills, projects, and academic background.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/merlyn-victor-15391b2a6/)
 - 💻 [LeetCode](https://leetcode.com/u/merls07/)
